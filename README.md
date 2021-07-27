@@ -7,7 +7,7 @@ Document Archive Utility will compressed and encrypt the files(documents) before
 
 Once a document uploaded successfully, DAU will delete this document from physic disk (on premise server).
 
-#Technologies & Services
+# Technologies & Services
 1. .NET CORE 5
 2. Azure Key Vault
 3. Azure Blob Storage
