@@ -1,4 +1,4 @@
-# DocumentArchiveUtility
+# Document Archive Utility
 Document Archive utility can automatically archive in-active customer documents from on premise server to cloud to create effortless capacity expansion & to secure customer data. This solution will shift developer / admin focus from Infrastructure management (capacity purchase) to meeting business needs. 
 
 Document Archive Utility used Azure blob storage solution to store customer documents on cloud, Azure storage services runs in a high-availability environment (data centers), patched and supported by Microsoft.
