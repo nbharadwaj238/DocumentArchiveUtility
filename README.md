@@ -13,6 +13,7 @@ Once a document uploaded successfully, DAU will delete this document from physic
 3. Azure Blob Storage
 4. Azure Managed Identity
 5. Azure Active Directory
+6. Serilog for logging
 
 # Best Practice
 1.	To save money on azure blob storage costs, Use Azure Storage reserved capacity.
