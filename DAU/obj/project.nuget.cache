@@ -1,0 +1,730 @@
+{
+  "version": 2,
+  "dgSpecHash": "PF4FdWUNhQ/1njpXrTx8/7KdYmAXKsUB+61wnLdX38CNZjZxwpL+uTsCL6s51hwBX8NVWW0MuMh/CHJRuEMBNQ==",
+  "success": true,
+  "projectFilePath": "Z:\\Nitish\\Utility\\DAU\\DAU\\DocumentArchiveUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\azure.core\\1.15.0\\azure.core.1.15.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\azure.extensions.aspnetcore.configuration.secrets\\1.2.1\\azure.extensions.aspnetcore.configuration.secrets.1.2.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\azure.identity\\1.4.0\\azure.identity.1.4.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\azure.security.keyvault.keys\\4.1.0\\azure.security.keyvault.keys.4.1.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\azure.security.keyvault.secrets\\4.1.0\\azure.security.keyvault.secrets.4.1.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\azure.storage.blobs\\12.9.0\\azure.storage.blobs.12.9.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\azure.storage.common\\12.8.0\\azure.storage.common.12.8.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\cronos\\0.7.0\\cronos.0.7.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.azure.keyvault.core\\3.0.3\\microsoft.azure.keyvault.core.3.0.3.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.data.sqlclient\\3.0.0\\microsoft.data.sqlclient.3.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\3.0.0\\microsoft.data.sqlclient.sni.runtime.3.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\5.0.0\\microsoft.extensions.configuration.commandline.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\5.0.0\\microsoft.extensions.configuration.environmentvariables.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\5.0.0\\microsoft.extensions.configuration.usersecrets.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.hosting\\5.0.0\\microsoft.extensions.hosting.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\5.0.0\\microsoft.extensions.hosting.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.hosting.windowsservices\\5.0.1\\microsoft.extensions.hosting.windowsservices.5.0.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.logging.configuration\\5.0.0\\microsoft.extensions.logging.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.logging.console\\5.0.0\\microsoft.extensions.logging.console.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.logging.debug\\5.0.0\\microsoft.extensions.logging.debug.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\5.0.0\\microsoft.extensions.logging.eventlog.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\5.0.1\\microsoft.extensions.logging.eventsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.identity.client\\4.32.0\\microsoft.identity.client.4.32.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.18.5\\microsoft.identity.client.extensions.msal.2.18.5.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.11.1\\microsoft.identitymodel.jsonwebtokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.identitymodel.logging\\6.11.1\\microsoft.identitymodel.logging.6.11.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.11.1\\microsoft.identitymodel.protocols.6.11.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.11.1\\microsoft.identitymodel.protocols.openidconnect.6.11.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.1\\microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.2\\microsoft.netcore.platforms.5.0.2.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.netcore.targets\\5.0.0\\microsoft.netcore.targets.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\nullable\\1.3.0\\nullable.1.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\serilog.settings.configuration\\3.1.0\\serilog.settings.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\serilog.sinks.file\\5.0.0-dev-00940\\serilog.sinks.file.5.0.0-dev-00940.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.1\\system.diagnostics.eventlog.5.0.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.1\\system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.runtime.caching\\5.0.0\\system.runtime.caching.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\system.serviceprocess.servicecontroller.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\1130945.FGI.000\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Core 1.15.0 depends on Microsoft.Bcl.AsyncInterfaces (>= 1.0.0) but Microsoft.Bcl.AsyncInterfaces 1.0.0 was not found. An approximate best match of Microsoft.Bcl.AsyncInterfaces 5.0.0 was resolved.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.IdentityModel.Tokens 6.11.1 depends on Microsoft.CSharp (>= 4.5.0) but Microsoft.CSharp 4.5.0 was not found. An approximate best match of Microsoft.CSharp 4.7.0 was resolved.",
+      "libraryId": "Microsoft.CSharp",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Extensions.AspNetCore.Configuration.Secrets 1.2.1 depends on Microsoft.Extensions.Configuration (>= 2.1.0) but Microsoft.Extensions.Configuration 2.1.0 was not found. An approximate best match of Microsoft.Extensions.Configuration 5.0.0 was resolved.",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Hosting 5.0.0 depends on Microsoft.Extensions.DependencyInjection (>= 5.0.0) but Microsoft.Extensions.DependencyInjection 5.0.0 was not found. An approximate best match of Microsoft.Extensions.DependencyInjection 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Logging 5.0.0 depends on Microsoft.Extensions.DependencyInjection (>= 5.0.0) but Microsoft.Extensions.DependencyInjection 5.0.0 was not found. An approximate best match of Microsoft.Extensions.DependencyInjection 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Serilog.Settings.Configuration 3.1.0 depends on Microsoft.Extensions.DependencyModel (>= 2.0.4) but Microsoft.Extensions.DependencyModel 2.0.4 was not found. An approximate best match of Microsoft.Extensions.DependencyModel 5.0.0 was resolved.",
+      "libraryId": "Microsoft.Extensions.DependencyModel",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Hosting 5.0.0 depends on Microsoft.Extensions.Logging.EventSource (>= 5.0.0) but Microsoft.Extensions.Logging.EventSource 5.0.0 was not found. An approximate best match of Microsoft.Extensions.Logging.EventSource 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.Logging.EventSource",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Serilog.Settings.Configuration 3.1.0 depends on Microsoft.Extensions.Options.ConfigurationExtensions (>= 2.0.0) but Microsoft.Extensions.Options.ConfigurationExtensions 2.0.0 was not found. An approximate best match of Microsoft.Extensions.Options.ConfigurationExtensions 5.0.0 was resolved.",
+      "libraryId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Configuration 5.0.0 depends on Microsoft.Extensions.Primitives (>= 5.0.0) but Microsoft.Extensions.Primitives 5.0.0 was not found. An approximate best match of Microsoft.Extensions.Primitives 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Configuration.Abstractions 5.0.0 depends on Microsoft.Extensions.Primitives (>= 5.0.0) but Microsoft.Extensions.Primitives 5.0.0 was not found. An approximate best match of Microsoft.Extensions.Primitives 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Configuration.FileExtensions 5.0.0 depends on Microsoft.Extensions.Primitives (>= 5.0.0) but Microsoft.Extensions.Primitives 5.0.0 was not found. An approximate best match of Microsoft.Extensions.Primitives 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.FileProviders.Abstractions 5.0.0 depends on Microsoft.Extensions.Primitives (>= 5.0.0) but Microsoft.Extensions.Primitives 5.0.0 was not found. An approximate best match of Microsoft.Extensions.Primitives 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.FileProviders.Physical 5.0.0 depends on Microsoft.Extensions.Primitives (>= 5.0.0) but Microsoft.Extensions.Primitives 5.0.0 was not found. An approximate best match of Microsoft.Extensions.Primitives 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Options 5.0.0 depends on Microsoft.Extensions.Primitives (>= 5.0.0) but Microsoft.Extensions.Primitives 5.0.0 was not found. An approximate best match of Microsoft.Extensions.Primitives 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Options.ConfigurationExtensions 5.0.0 depends on Microsoft.Extensions.Primitives (>= 5.0.0) but Microsoft.Extensions.Primitives 5.0.0 was not found. An approximate best match of Microsoft.Extensions.Primitives 5.0.1 was resolved.",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Identity 1.4.0 depends on Microsoft.Identity.Client (>= 4.30.1) but Microsoft.Identity.Client 4.30.1 was not found. An approximate best match of Microsoft.Identity.Client 4.32.0 was resolved.",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on Microsoft.Identity.Client (>= 4.22.0) but Microsoft.Identity.Client 4.22.0 was not found. An approximate best match of Microsoft.Identity.Client 4.32.0 was resolved.",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Identity 1.4.0 depends on Microsoft.Identity.Client.Extensions.Msal (>= 2.18.4) but Microsoft.Identity.Client.Extensions.Msal 2.18.4 was not found. An approximate best match of Microsoft.Identity.Client.Extensions.Msal 2.18.5 was resolved.",
+      "libraryId": "Microsoft.Identity.Client.Extensions.Msal",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on Microsoft.IdentityModel.JsonWebTokens (>= 6.8.0) but Microsoft.IdentityModel.JsonWebTokens 6.8.0 was not found. An approximate best match of Microsoft.IdentityModel.JsonWebTokens 6.11.1 was resolved.",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on Microsoft.IdentityModel.Protocols.OpenIdConnect (>= 6.8.0) but Microsoft.IdentityModel.Protocols.OpenIdConnect 6.8.0 was not found. An approximate best match of Microsoft.IdentityModel.Protocols.OpenIdConnect 6.11.1 was resolved.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NETStandard.Library 2.0.3 depends on Microsoft.NETCore.Platforms (>= 1.1.0) but Microsoft.NETCore.Platforms 1.1.0 was not found. An approximate best match of Microsoft.NETCore.Platforms 3.1.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Collections 4.3.0 depends on Microsoft.NETCore.Platforms (>= 1.1.0) but Microsoft.NETCore.Platforms 1.1.0 was not found. An approximate best match of Microsoft.NETCore.Platforms 3.1.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Diagnostics.Debug 4.3.0 depends on Microsoft.NETCore.Platforms (>= 1.1.0) but Microsoft.NETCore.Platforms 1.1.0 was not found. An approximate best match of Microsoft.NETCore.Platforms 3.1.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Resources.ResourceManager 4.3.0 depends on Microsoft.NETCore.Platforms (>= 1.1.0) but Microsoft.NETCore.Platforms 1.1.0 was not found. An approximate best match of Microsoft.NETCore.Platforms 3.1.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Runtime 4.3.1 depends on Microsoft.NETCore.Platforms (>= 1.1.1) but Microsoft.NETCore.Platforms 1.1.1 was not found. An approximate best match of Microsoft.NETCore.Platforms 3.1.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Runtime.Extensions 4.3.1 depends on Microsoft.NETCore.Platforms (>= 1.1.1) but Microsoft.NETCore.Platforms 1.1.1 was not found. An approximate best match of Microsoft.NETCore.Platforms 3.1.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Win32.SystemEvents 5.0.0 depends on Microsoft.NETCore.Platforms (>= 5.0.0) but Microsoft.NETCore.Platforms 5.0.0 was not found. An approximate best match of Microsoft.NETCore.Platforms 5.0.2 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Diagnostics.EventLog 5.0.1 depends on Microsoft.NETCore.Platforms (>= 5.0.1) but Microsoft.NETCore.Platforms 5.0.1 was not found. An approximate best match of Microsoft.NETCore.Platforms 5.0.2 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Security.AccessControl 5.0.0 depends on Microsoft.NETCore.Platforms (>= 5.0.0) but Microsoft.NETCore.Platforms 5.0.0 was not found. An approximate best match of Microsoft.NETCore.Platforms 5.0.2 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Text.Encoding.CodePages 5.0.0 depends on Microsoft.NETCore.Platforms (>= 5.0.0) but Microsoft.NETCore.Platforms 5.0.0 was not found. An approximate best match of Microsoft.NETCore.Platforms 5.0.2 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Collections 4.3.0 depends on Microsoft.NETCore.Targets (>= 1.1.0) but Microsoft.NETCore.Targets 1.1.0 was not found. An approximate best match of Microsoft.NETCore.Targets 5.0.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Diagnostics.Debug 4.3.0 depends on Microsoft.NETCore.Targets (>= 1.1.0) but Microsoft.NETCore.Targets 1.1.0 was not found. An approximate best match of Microsoft.NETCore.Targets 5.0.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Resources.ResourceManager 4.3.0 depends on Microsoft.NETCore.Targets (>= 1.1.0) but Microsoft.NETCore.Targets 1.1.0 was not found. An approximate best match of Microsoft.NETCore.Targets 5.0.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Runtime 4.3.1 depends on Microsoft.NETCore.Targets (>= 1.1.3) but Microsoft.NETCore.Targets 1.1.3 was not found. An approximate best match of Microsoft.NETCore.Targets 5.0.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Runtime.Extensions 4.3.1 depends on Microsoft.NETCore.Targets (>= 1.1.3) but Microsoft.NETCore.Targets 1.1.3 was not found. An approximate best match of Microsoft.NETCore.Targets 5.0.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on Microsoft.Win32.Registry (>= 4.7.0) but Microsoft.Win32.Registry 4.7.0 was not found. An approximate best match of Microsoft.Win32.Registry 5.0.0 was resolved.",
+      "libraryId": "Microsoft.Win32.Registry",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Azure.KeyVault.Core 3.0.3 depends on NETStandard.Library (>= 1.6.1) but NETStandard.Library 1.6.1 was not found. An approximate best match of NETStandard.Library 2.0.3 was resolved.",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Serilog.Settings.Configuration 3.1.0 depends on Serilog (>= 2.6.0) but Serilog 2.6.0 was not found. An approximate best match of Serilog 2.10.0 was resolved.",
+      "libraryId": "Serilog",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on System.Configuration.ConfigurationManager (>= 4.7.0) but System.Configuration.ConfigurationManager 4.7.0 was not found. An approximate best match of System.Configuration.ConfigurationManager 5.0.0 was resolved.",
+      "libraryId": "System.Configuration.ConfigurationManager",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Core 1.15.0 depends on System.Diagnostics.DiagnosticSource (>= 4.6.0) but System.Diagnostics.DiagnosticSource 4.6.0 was not found. An approximate best match of System.Diagnostics.DiagnosticSource 5.0.1 was resolved.",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on System.Diagnostics.DiagnosticSource (>= 4.7.0) but System.Diagnostics.DiagnosticSource 4.7.0 was not found. An approximate best match of System.Diagnostics.DiagnosticSource 5.0.1 was resolved.",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Extensions.Logging.EventLog 5.0.0 depends on System.Diagnostics.EventLog (>= 5.0.0) but System.Diagnostics.EventLog 5.0.0 was not found. An approximate best match of System.Diagnostics.EventLog 5.0.1 was resolved.",
+      "libraryId": "System.Diagnostics.EventLog",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.ServiceProcess.ServiceController 5.0.0 depends on System.Diagnostics.EventLog (>= 5.0.0) but System.Diagnostics.EventLog 5.0.0 was not found. An approximate best match of System.Diagnostics.EventLog 5.0.1 was resolved.",
+      "libraryId": "System.Diagnostics.EventLog",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Windows.Extensions 5.0.0 depends on System.Drawing.Common (>= 5.0.0) but System.Drawing.Common 5.0.0 was not found. An approximate best match of System.Drawing.Common 5.0.2 was resolved.",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Security.KeyVault.Keys 4.1.0 depends on System.Memory (>= 4.5.3) but System.Memory 4.5.3 was not found. An approximate best match of System.Memory 4.5.4 was resolved.",
+      "libraryId": "System.Memory",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Security.KeyVault.Secrets 4.1.0 depends on System.Memory (>= 4.5.3) but System.Memory 4.5.3 was not found. An approximate best match of System.Memory 4.5.4 was resolved.",
+      "libraryId": "System.Memory",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Linq 4.3.0 depends on System.Runtime (>= 4.3.0) but System.Runtime 4.3.0 was not found. An approximate best match of System.Runtime 4.3.1 was resolved.",
+      "libraryId": "System.Runtime",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on System.Runtime.Caching (>= 4.7.0) but System.Runtime.Caching 4.7.0 was not found. An approximate best match of System.Runtime.Caching 5.0.0 was resolved.",
+      "libraryId": "System.Runtime.Caching",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Linq 4.3.0 depends on System.Runtime.Extensions (>= 4.3.0) but System.Runtime.Extensions 4.3.0 was not found. An approximate best match of System.Runtime.Extensions 4.3.1 was resolved.",
+      "libraryId": "System.Runtime.Extensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.IdentityModel.Tokens 6.11.1 depends on System.Security.Cryptography.Cng (>= 4.5.0) but System.Security.Cryptography.Cng 4.5.0 was not found. An approximate best match of System.Security.Cryptography.Cng 5.0.0 was resolved.",
+      "libraryId": "System.Security.Cryptography.Cng",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Identity 1.4.0 depends on System.Security.Cryptography.ProtectedData (>= 4.5.0) but System.Security.Cryptography.ProtectedData 4.5.0 was not found. An approximate best match of System.Security.Cryptography.ProtectedData 5.0.0 was resolved.",
+      "libraryId": "System.Security.Cryptography.ProtectedData",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on System.Text.Encoding.CodePages (>= 4.7.0) but System.Text.Encoding.CodePages 4.7.0 was not found. An approximate best match of System.Text.Encoding.CodePages 5.0.0 was resolved.",
+      "libraryId": "System.Text.Encoding.CodePages",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Core 1.15.0 depends on System.Text.Encodings.Web (>= 4.7.2) but System.Text.Encodings.Web 4.7.2 was not found. An approximate best match of System.Text.Encodings.Web 5.0.1 was resolved.",
+      "libraryId": "System.Text.Encodings.Web",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Data.SqlClient 3.0.0 depends on System.Text.Encodings.Web (>= 4.7.2) but System.Text.Encodings.Web 4.7.2 was not found. An approximate best match of System.Text.Encodings.Web 5.0.1 was resolved.",
+      "libraryId": "System.Text.Encodings.Web",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Core 1.15.0 depends on System.Text.Json (>= 4.6.0) but System.Text.Json 4.6.0 was not found. An approximate best match of System.Text.Json 5.0.2 was resolved.",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Identity 1.4.0 depends on System.Text.Json (>= 4.6.0) but System.Text.Json 4.6.0 was not found. An approximate best match of System.Text.Json 5.0.2 was resolved.",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Security.KeyVault.Keys 4.1.0 depends on System.Text.Json (>= 4.6.0) but System.Text.Json 4.6.0 was not found. An approximate best match of System.Text.Json 5.0.2 was resolved.",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Security.KeyVault.Secrets 4.1.0 depends on System.Text.Json (>= 4.6.0) but System.Text.Json 4.6.0 was not found. An approximate best match of System.Text.Json 5.0.2 was resolved.",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Storage.Blobs 12.9.0 depends on System.Text.Json (>= 4.6.0) but System.Text.Json 4.6.0 was not found. An approximate best match of System.Text.Json 5.0.2 was resolved.",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Core 1.15.0 depends on System.Threading.Tasks.Extensions (>= 4.5.2) but System.Threading.Tasks.Extensions 4.5.2 was not found. An approximate best match of System.Threading.Tasks.Extensions 4.5.4 was resolved.",
+      "libraryId": "System.Threading.Tasks.Extensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Identity 1.4.0 depends on System.Threading.Tasks.Extensions (>= 4.5.2) but System.Threading.Tasks.Extensions 4.5.2 was not found. An approximate best match of System.Threading.Tasks.Extensions 4.5.4 was resolved.",
+      "libraryId": "System.Threading.Tasks.Extensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Security.KeyVault.Keys 4.1.0 depends on System.Threading.Tasks.Extensions (>= 4.5.2) but System.Threading.Tasks.Extensions 4.5.2 was not found. An approximate best match of System.Threading.Tasks.Extensions 4.5.4 was resolved.",
+      "libraryId": "System.Threading.Tasks.Extensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Azure.Security.KeyVault.Secrets 4.1.0 depends on System.Threading.Tasks.Extensions (>= 4.5.2) but System.Threading.Tasks.Extensions 4.5.2 was not found. An approximate best match of System.Threading.Tasks.Extensions 4.5.4 was resolved.",
+      "libraryId": "System.Threading.Tasks.Extensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
