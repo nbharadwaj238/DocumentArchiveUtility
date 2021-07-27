@@ -3,6 +3,17 @@ Document Archive utility can automatically archive in-active customer documents 
 
 Document Archive Utility used Azure blob storage solution to store customer documents on cloud, Azure storage services runs in a high-availability environment (data centers), patched and supported by Microsoft.
 
+Document Archive Utility will compressed and encrypt the files(documents) before uploading to Azure Blob Storage, Also will decrypt and un-compressed files while downloading from Azure Storage.
+
+Once a document uploaded successfully, DAU will delete this document from physic disk (on premise server).
+
+#Technologies & Services
+1. .NET CORE 5
+2. Azure Key Vault
+3. Azure Blob Storage
+4. Azure Managed Identity
+5. Azure Active Directory
+
 # Best Practice
 1.	To save money on azure blob storage costs, Use Azure Storage reserved capacity.
 2.	Enable Azure roll back access over storage account.
